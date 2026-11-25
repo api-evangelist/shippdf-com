@@ -1,4 +1,4 @@
-# shippdf-com
+# ShipPDF
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,129 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 shippdf-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://shippdf.com/
+
+**Areas:** Document Generation · PDF Automation · No‑code Integration · API · Templates · Labels · Reporting
+
+## ShipPDF on APIs.io
+
+Everything profiled for ShipPDF is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/shippdf-com/](https://apis.io/providers/shippdf-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [ShipPDF API](https://apis.io/apis/shippdf-com/shippdf-api/) — ShipPDF REST API for managing PDFs, templates, batches and webhooks.
+- [ShipPDF API](https://apis.io/apis/shippdf-com/shippdf-com-api/) — ShipPDF API as documented publicly: 8 operations. Contract generated from the documentation by API Evangelist (2026-11-24); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Shippdf Com Webhooks](https://apis.io/asyncapis/shippdf-com/shippdf-com-webhooks/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [GetV1DocumentsDocA1B2C3Response](https://apis.io/schemas/shippdf-com/shippdf-com-get-v1-documents-doc-a1-b2-c3-response/)
+- [GetV1DocumentsResponse](https://apis.io/schemas/shippdf-com/shippdf-com-get-v1-documents-response/)
+- [GetV1DocumentsResponse2](https://apis.io/schemas/shippdf-com/shippdf-com-get-v1-documents-response2/)
+- [PostV1DocumentsResponse](https://apis.io/schemas/shippdf-com/shippdf-com-post-v1-documents-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Shippdf Com Context](https://apis.io/jsonld/shippdf-com/shippdf-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ShipPDF API Rules](https://apis.io/rules/shippdf-com/shippdf-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ShipPDF Authentication](https://apis.io/security/shippdf-com/shippdf-com-authentication/)
+- [ShipPDF Domain Security](https://apis.io/security/shippdf-com/shippdf-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [ShipPDF Plans Pricing](https://apis.io/plans/shippdf-com/shippdf-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://shippdf.com/)
+- [Documentation](https://shippdf.com/docs/)
+- [Getting started](https://shippdf.com/docs/quickstart/)
+- [API reference](https://shippdf.com/docs/api/)
+- [Pricing](https://shippdf.com/pricing/)
+- [Support](https://shippdf.com/support/)
+- [Blog](https://shippdf.com/blog/)
+- [Terms of service](https://shippdf.com/terms/)
+- [Privacy policy](https://shippdf.com/privacy/)
+- [GitHub](https://github.com/ShipPDF)
+
+## API Evangelist rating
+
+**Kin Score 56.5** — strong · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 55.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 42.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/shippdf-com/](https://apis.io/providers/shippdf-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ShipPDF: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/shippdf-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
